@@ -30,19 +30,3 @@
   * 下载媒体文件`highway.mp4`至`videos`目录下（该视频是本人无人机拍摄，禁止他用）
 
 * 运行`python demo.py`即可。
-
-  
-
-## 四、参考资料
-
-* https://github.com/ZQPei/deep_sort_pytorch
-* https://github.com/Sharpiless/Yolov5-deepsort-inference
-* https://github.com/dyh/unbox_yolov5_deepsort_counting
-* https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch
-
-
-
-### 微信技术交流、问题反馈：
-
-<img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/imgIMG_5862.JPG?x-oss-process=style/wp" style="width:200px;" />
-
